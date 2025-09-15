@@ -13,6 +13,7 @@
 ## 🎮 Interests
 - **Gaming**
 - **Music**
+- **Aespa**
 
 ## 🌐 Connect with Me
 - [Facebook](https://www.facebook.com/tristanjaysevilla)
