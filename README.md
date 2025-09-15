@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tristan Jay Sevilla
 
 ## 🎓 Education
-- **Student** at Computer Science, specializing in **Digital Forensics**
+- **Student** at National University, taking Bachelor of Science in Computer Science specializing in **Digital Forensics**
 
 ## 💻 Skills
 - Programming Languages: **Java** | **Python**
