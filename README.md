@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Tristan Jay Sevilla
 
-<!--
-**Hyakkki/Hyakkki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- **Student** at Computer Science, specializing in **Digital Forensics**
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Programming Languages: **Java** | **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [FoodPanda](https://github.com/rpaulos/FoodPanda)
+- [SafeLink](https://github.com/Hyakkki/CCSFEN1L_SAFE-LINK_COM232)
+
+## 🎮 Interests
+- **Gaming**
+- **Music**
+
+## 🌐 Connect with Me
+- [Facebook](https://www.facebook.com/tristanjaysevilla)
+- [LinkedIn](https://www.linkedin.com/in/tristan-jay-sevilla-60a3a7340)
+- 📧 Email: tristanjaymacsevilla@gmail.com
+
+---
+
+Thanks for visiting my profile! Feel free to check out my projects or connect with me!
