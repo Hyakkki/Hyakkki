@@ -24,7 +24,7 @@
 
 <br/><br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/AESPA-000000?style=for-the-badge&labelColor=ffffff&color=000000" /><img src="https://img.shields.io/badge/AESPA-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" /><img src="https://img.shields.io/badge/AESPA-000000?style=for-the-badge&labelColor=ffffff&color=000000" /><img src="https://img.shields.io/badge/AESPA-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" /><img src="https://img.shields.io/badge/AESPA-000000?style=for-the-badge&labelColor=ffffff&color=000000" /><img src="https://img.shields.io/badge/AESPA-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" /><img src="https://img.shields.io/badge/AESPA-000000?style=for-the-badge&labelColor=ffffff&color=000000" /><img src="https://img.shields.io/badge/AESPA-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" /><img src="https://img.shields.io/badge/AESPA-000000?style=for-the-badge&labelColor=ffffff&color=000000" /><img src="https://img.shields.io/badge/AESPA-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" />
+  <img src="https://img.shields.io/badge/AESPA-000000?style=for-the-badge&labelColor=ffffff&color=000000" /><img src="https://img.shields.io/badge/AESPA-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" /><img src="https://img.shields.io/badge/AESPA-000000?style=for-the-badge&labelColor=ffffff&color=000000" /><img src="https://img.shields.io/badge/AESPA-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" /><img src="https://img.shields.io/badge/AESPA-000000?style=for-the-badge&labelColor=ffffff&color=000000" /><img src="https://img.shields.io/badge/AESPA-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" /><img src="https://img.shields.io/badge/AESPA-000000?style=for-the-badge&labelColor=ffffff&color=000000" /><img src="https://img.shields.io/badge/AESPA-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" /><img src="https://img.shields.io/badge/AESPA-000000?style=for-the-badge&labelColor=ffffff&color=000000" /><img src="https://img.shields.io/badge/AESPA-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" /><img src="https://img.shields.io/badge/AESPA-000000?style=for-the-badge&labelColor=ffffff&color=000000" /><img src="https://img.shields.io/badge/AESPA-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" />
 </div>
 
 </div>
@@ -132,6 +132,6 @@ tristan = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Hyakkki&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
-> *"In this world, it's sync or be synced."* — **NÆVIS** 🖤
+> 🤍🖤 *NÆVIS~ CALLING...* 🖤🤍
 
 </div>
