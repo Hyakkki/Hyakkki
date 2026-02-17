@@ -56,7 +56,6 @@ tristan = {
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-111111?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
@@ -82,7 +81,7 @@ tristan = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=WELCOME%20TO%20MY%20WORLD&fontSize=20&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=50&section=header&text=WELCOME%20TO%20MY%20WORLD&fontSize=20&fontColor=000000" width="100%"/>
 </div>
 
 ---
